@@ -67,3 +67,6 @@ the p-value is 0.000000004305< 0.05
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Based on the extremely low p-value of 0.000000004305 obtained from the statistical analysis, we reject the null hypothesis ($H_0$) and conclude that there is a significant difference in average yield between the cultivation methods. Specifically, the data indicate that cultivation method C52 produces more cabbage than cultivation method C39. This finding underscores the importance of considering cultivation methods in cabbage production to optimize yield.
+
